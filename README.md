@@ -1,4 +1,6 @@
 # Colorización de Imágenes con Aprendizaje Profundo
+
+![Logo CETYS](./cetys2.png)
  
 CETYS Universidad
 
